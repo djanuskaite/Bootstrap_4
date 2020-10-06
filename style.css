@@ -1,0 +1,39 @@
+.melyna {
+	background-color: #41aea9;
+}
+.zalia {
+	background-color: #32e0c4;
+}
+.mazesne {
+	height: 200px;
+}
+.didele {
+	height: 600px;
+}
+.didesne {
+	height: 400px;
+}
+.maza {
+	height: 194px;
+}
+.vidurinis {
+	height: 615px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.didesne, .vidurinis {
+  display: flex;
+  justify-content: center;
+}
+
+.antrasnr, .ketvirtasnr, .penktasnr, .astuntasnr, .devintasnr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
